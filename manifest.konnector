@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "name": "Orientoi",
+  "name": "Inokufu",
   "type": "konnector",
   "language": "node",
   "icon": "icon.svg",
-  "slug": "orientoi",
-  "source": "git@github.com:paultranvan/orientoi.git",
+  "slug": "inokufu",
+  "source": "git@github.com:paultranvan/inokufu.git",
   "editor": "Cozy",
-  "vendor_link": "https://www.orientoi.fr/",
+  "vendor_link": "https://www.inokufu.com/",
   "categories": ["education"],
   "fields": {
     "login": {
@@ -37,8 +37,8 @@
   "langs": ["fr", "en"],
   "locales": {
     "fr": {
-      "short_description": "Récupère vos données Orientoi",
-      "long_description": "Récupère vos données Orientoi",
+      "short_description": "Récupère vos données Inokufu",
+      "long_description": "Récupère vos données Inokufu",
       "permissions": {
         "files": {
           "description": "Utilisé pour sauvegarder les données sous forme de fichier"
@@ -49,8 +49,8 @@
       }
     },
     "en": {
-      "short_description": "Fetch your data from Orientoi",
-      "long_description": "Fetch your data from Orientoi",
+      "short_description": "Fetch your data from Inokufu",
+      "long_description": "Fetch your data from Inokufu",
       "permissions": {
         "files": {
           "description": "Required to save data as file"
